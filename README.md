@@ -1,4 +1,4 @@
-# WeatherApplicationMVC
+# Weather App
 
 The clone of apple weather application
 
